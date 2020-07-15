@@ -5,7 +5,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Anything
-- 📫 How to reach me: [Website](www.tommasonegri.com)
+- 📫 How to reach me: [Website](https://www.tommasonegri.com)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
