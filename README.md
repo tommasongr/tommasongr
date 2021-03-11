@@ -6,7 +6,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Anything
-- 📫 How to reach me: [Mail](mailto:tommasongr@icloud.com), [Twitter](https://twitter.com/tommasongr), [Website](https://www.tommasonegri.com)
+- 📫 How to reach me: [Mail](mailto:tommaso@hey.com), [Twitter](https://twitter.com/tommasongr), [Website](https://www.tommasonegri.com)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
